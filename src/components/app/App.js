@@ -124,7 +124,7 @@ class App extends Component {
         ): (
           <div className="alert alert-success">
             <span>Puedes descansar, tienes tu lista vacía </span>
-            <i class="far fa-smile-wink"></i>
+            <i className="far fa-smile-wink"></i>
           </div>)
         }
 
